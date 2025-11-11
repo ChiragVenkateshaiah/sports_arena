@@ -7,7 +7,7 @@ Tools Used
 PostgreSQL
 PgAdmin
 SQL
-Contents
+Contents:
 schema/ → Database table creation scripts
 queries/ → Query practice and scenarios
 data/ → Insert statements
