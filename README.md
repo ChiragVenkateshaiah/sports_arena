@@ -11,4 +11,4 @@ Contents
 schema/ → Database table creation scripts
 queries/ → Query practice and scenarios
 data/ → Insert statements
-Please Note: Database used in this project is upload as dvdrental.tar format in the main branch of this repository.
+Please Note: Database used in this project is upload as exercise.tar format in the main branch of this repository.
