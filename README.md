@@ -1,4 +1,4 @@
-# sports_arena
+# sports_arena database
 SQL scripts and database objects for the sports_arena database
 
 This repository contains SQL scripts, database schema, and sample queries executed on the dvdrental PostgreSQL sample database.
